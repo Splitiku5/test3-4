@@ -13,5 +13,6 @@ function naturalSummMultiples ($number, $multiplesOne = 3 , $multiplesTwo = 5): 
 return $summ;
 }
 
+
 $a = naturalSummMultiples(1000);
 var_dump($a);
